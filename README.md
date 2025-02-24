@@ -17,6 +17,7 @@ To begin with, I implemented the functionality to read data from a file using th
 This task significantly improved my understanding of Java I/O operations, exception handling, and file manipulation techniques. It also reinforced the importance of resource management, as handling files improperly can lead to memory leaks and resource exhaustion. By implementing these features, I gained practical experience in dealing with real-world scenarios where file handling is used for log management, data storage, and content processing systems. Successfully completing this task provided me with a strong foundation in Java file handling, preparing me for more advanced programming challenges in my internship.
 
 #OUTPUT#:
+![Image](https://github.com/user-attachments/assets/2a98e797-bc8f-4e0f-828c-8e9ca9b78713)
 
 
 
